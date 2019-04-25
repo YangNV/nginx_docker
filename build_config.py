@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import os
 from get_container_info import get_container_info
 
